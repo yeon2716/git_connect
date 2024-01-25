@@ -47,7 +47,7 @@ git config --list
    
    ```
    git commit -m "내가적고싶은 메세지"          
-  ```
+   ```
 
 
 # 메세지에는 한글이 가능함
